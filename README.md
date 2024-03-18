@@ -1,5 +1,5 @@
 # eve-ng-guide
 
-Welcome to the EVE-NG-guide repository! Here, you'll find concise guides and troubleshooting tips for maximizing your experience with EVE-NG, the leading network emulation platform.
+Welcome to the EVE-NG-guide repository! Here, you'll find concise guides and troubleshooting tips for maximizing your experience with EVE-NG, the network emulation platform.
 
-The WIKI
+The [WIKI](https://github.com/come-tardivel/eve-ng-guide/wiki)
